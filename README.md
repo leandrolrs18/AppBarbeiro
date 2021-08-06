@@ -1,2 +1,3 @@
 # AppBarbeiro
 Aplicativo ...
+A pasta node_modules se encontra: 
